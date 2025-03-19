@@ -1,5 +1,7 @@
 streamlit
 pandas
 plotly
-openpyxl
+google-cloud-bigquery
 streamlit-autorefresh
+openpyxl
+db-dtypes
